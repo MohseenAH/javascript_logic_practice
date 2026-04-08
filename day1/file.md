@@ -48,6 +48,3 @@ Object    → shared memory   → linked ❌
 ```
 
 ---
-
-If this is clear, you’ve fully mastered Level 1 💯
-👉 Ready for brain-twisting part? Say **"level 2"** 🔥
